@@ -21,3 +21,23 @@ Route::get('/uwuw', function () {
 	return view('welcome');
 });
 
+Route::get('/uwuw', function () {
+	return view('welcome');
+});
+
+Route::get('/uwuw', function () {
+	return view('welcome');
+});
+
+Route::get('/uwuw', function () {
+	return view('welcome');
+});
+
+Route::get('/uwuw', function () {
+	return view('welcome');
+});
+
+Route::get('/uwuw', function () {
+	return view('welcome');
+});
+
